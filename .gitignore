@@ -185,3 +185,4 @@ buck-out/
 .expo/*
 web-build/
 src/firebase/config.js
+package-lock.json
