@@ -184,3 +184,4 @@ buck-out/
 # Expo
 .expo/*
 web-build/
+src/firebase/config.js
