@@ -17,6 +17,8 @@
 <img src="https://github.com/kenny850917/starbuck-mockup/blob/main/screenshot/forgotpassword.png" width="250"/>
 <img src="https://github.com/kenny850917/starbuck-mockup/blob/main/screenshot/resetlink.png"/>
 
+## Download the APK file here
+https://github.com/kenny850917/starbuck-mockup/blob/main/apk/starbuck-mockup-app-50f73870127144f5a9574ea08f2d078f-signed.apk
 
 ## Getting Started (with Expo)
 
