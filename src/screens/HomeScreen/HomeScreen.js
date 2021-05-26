@@ -84,20 +84,6 @@ export default function HomeScreen(props, navigation) {
 
   return (
     <View style={styles.container}>
-      {/* <View style={styles.formContainer}>
-        <TextInput
-          style={styles.input}
-          placeholder="Add new entity"
-          placeholderTextColor="#aaaaaa"
-          onChangeText={(text) => setEntityText(text)}
-          value={entityText}
-          underlineColorAndroid="transparent"
-          autoCapitalize="none"
-        />
-        <TouchableOpacity style={styles.button} onPress={onAddButtonPress}>
-          <Text style={styles.buttonText}>Add</Text>
-        </TouchableOpacity>
-      </View> */}
       <View style={styles.logoutButton}>
         <TouchableOpacity style={styles.button} onPress={() => onLogoutPress()}>
           <Text style={styles.buttonTitle}>Log out</Text>
