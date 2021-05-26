@@ -1,18 +1,8 @@
 import React, { useState } from "react";
 import { firebase } from "../../firebase/config";
 import styles from "./styles";
-import {
-  Text,
-  TextInput,
-  SafeAreaView,
-  TouchableOpacity,
-  View,
-  StyleSheet,
-} from "react-native";
+import { Text, TextInput, TouchableOpacity, View } from "react-native";
 import { KeyboardAwareScrollView } from "react-native-keyboard-aware-scroll-view";
-
-// import { withFirebaseHOC } from "../config/Firebase";
-import { render } from "react-dom";
 
 const ForgotPassword = () => {
   const [email, setEmail] = useState("");
